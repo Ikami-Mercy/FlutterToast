@@ -17,6 +17,7 @@ import io.flutter.FlutterInjector
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler
+import io.github.ponnamkarthik.toast.fluttertoast.R
 
 internal class MethodCallHandlerImpl(private var context: Context) : MethodCallHandler {
 
